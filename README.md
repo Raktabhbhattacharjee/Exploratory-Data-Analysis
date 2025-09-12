@@ -33,11 +33,6 @@ I could keep digging—adding demographic data, policy impacts, or even building
 Or, I could pick a country or region that stood out and tell its story in depth.  
 Either way, I now have the toolset to turn raw data into actionable insights.
 
-## Reach Out
 
-Questions? Ideas? Want to collaborate?  
-**Contact me via GitHub or your-email@example.com**
-
----
 
 **Thanks for checking out my work. Feedback always welcome!**
